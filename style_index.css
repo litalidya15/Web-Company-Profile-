@@ -1,0 +1,532 @@
+* {
+  font-family: poppins;
+  text-decoration: none;
+  list-style-type: none;
+  color: #687279;
+  font-weight: 500;
+  font-size: 15px;
+}
+.contact a {
+  background-color: #f1a204;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+}
+
+.contact a {
+  color: white;
+}
+.contact a:hover {
+  background-color: #0c084c;
+  color: white;
+}
+.atasDesc {
+  color: #0c084c;
+  font-weight: 600;
+  font-size: 18px;
+}
+.beranda {
+  color: #f1a204;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+.hero {
+  gap: 100px;
+  width: 85%;
+  background-color: white;
+  margin: auto;
+}
+br {
+  line-height: 1px;
+}
+h3 {
+  color: #f1a204;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 5%;
+}
+h1 {
+  color: #0c084c;
+  font-weight: 600;
+  font-size: 50px;
+}
+span {
+  font-weight: 300;
+  color: #0c084c;
+  font-size: 16px;
+}
+img .gambarorang {
+  padding: 100% 0% 0% 10%;
+  margin: auto;
+}
+.navbar {
+  padding: 10px 0px 10px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu ul {
+  display: flex;
+  list-style-type: none;
+}
+.menu ul li {
+  margin: 1px 15px 0px 15px;
+  text-align: center;
+}
+a:hover {
+  color: #f1a204;
+}
+.hero {
+  display: flex;
+  margin: auto;
+  width: 80%;
+  gap: 100px;
+}
+.kotakWA {
+  display: flex;
+  margin: 0px 20px 0px 20px;
+}
+.daftar {
+  color: white;
+  background-color: #f1a204;
+  border-radius: 5px;
+  padding: 5px;
+  padding-right: 15px;
+  cursor: pointer;
+}
+.daftar i {
+  color: white;
+  background-color: #f1a204;
+  border-radius: 5px;
+  padding: 10px;
+}
+.program {
+  color: #0c084c;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  border-width: 2px;
+  cursor: pointer;
+}
+.partner {
+  width: 85%;
+  padding: 0px 0px 0px 7px;
+  justify-content: center;
+  align-items: center;
+}
+.partner-head {
+  color: #0c084c;
+  margin: auto;
+  padding: 5% 0% 0% 0%;
+  width: 80%;
+}
+.sponsor {
+  display: flex;
+  align-items: center;
+  /* background-color: #0C084C; */
+  width: 80%;
+  margin: auto;
+  gap: 75px;
+}
+.Perusahaan {
+  color: #0c084c;
+  display: flex;
+}
+
+.list i {
+  color: #f1a204;
+}
+.deskripsi i {
+  color: #f1a204;
+}
+.deskripsi .kotakWA i {
+  color: white;
+}
+.jurusan i {
+  color: white;
+}
+.mengapa {
+  color: #0c084c;
+  text-align: center;
+  margin-top: 100px;
+}
+.mengapa1 {
+  font-size: 47px;
+  padding-right: 10px;
+}
+.kami p {
+  text-align: center;
+  font-size: 20px;
+  color: #0c084c;
+  margin-bottom: 75px;
+}
+.dengan {
+  font-size: 18px;
+  color: #0c084c;
+}
+.border {
+  color: #687279;
+  background-color: #f2f5f7;
+  border-radius: 15px;
+  width: 35%;
+  transition: 0.3s;
+}
+.border:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.gambar1 {
+  width: 100%;
+}
+.vocational {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+.list {
+  text-align: left;
+  padding-top: 25px;
+  padding-bottom: 80px;
+}
+.list li {
+  font-size: 20px;
+  color: #687279;
+  padding: 0px 0px 0px 5px;
+}
+.navbar1 {
+  display: flex;
+  gap: 30px;
+}
+.border1 {
+  background-color: antiquewhite;
+  color: #687279;
+  border-radius: 15px;
+  width: 35%;
+  transition: 0.3s;
+}
+.border1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.gambar2 {
+  width: 100%;
+  justify-content: center;
+}
+.professional {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 25px;
+}
+.border2 {
+  color: #687279;
+  background-color: #f2f5f7;
+  border-radius: 15px;
+  width: 35%;
+  transition: 0.3s;
+}
+.border2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.gambar3 {
+  width: 60%;
+}
+.religious {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 25px;
+}
+.container-gallery {
+  max-width: 1100px;
+  margin: auto;
+}
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 50px;
+  font-weight: 600;
+  margin-top: 100px;
+}
+.filter-buttons {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.filter-btn {
+  border: 1px solid #ddd;
+  background: none;
+  color: #555;
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+.filter-btn.active,
+.filter-btn:hover {
+  background-color: #ff6b00;
+  color: white;
+  border-color: #ff6b00;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.gambar {
+  width: 30%;
+  overflow: hidden;
+  border-radius: 12px;
+  transform: scale(1);
+  transition: all 0.5s ease;
+}
+.gambar img {
+  width: 100%;
+  height: 100%;
+}
+.gambar:hover {
+  transform: scale(1.05);
+}
+.text {
+  text-align: center;
+  color: #0c084c;
+  font-size: 43px;
+  font-family: poppins;
+  font-weight: bold;
+  margin-top: 100px;
+}
+
+.jurusan {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.tkj {
+  background-color: #f2f5f6;
+  font-family: poppins;
+  border-radius: 20px;
+  margin-top: 15px;
+}
+
+.tekstkj {
+  background-color: #f1a204;
+  margin: 20px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 12px 24px;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: poppins;
+}
+
+.tekaje {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.buttontext {
+  font-size: 14px;
+  text-align: left;
+  margin-top: 20px;
+  padding: 0px 0px 0px 5px;
+  color: #687279;
+}
+.buttontext i {
+  color: #f1a204;
+}
+
+.silabus {
+  background-color: #0c084c;
+  padding: 12px 24px;
+  font-size: 16px;
+  margin: 20px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+}
+
+.dkv {
+  background-color: #f2f5f6;
+  font-family: poppins;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.teksdkv {
+  background-color: #f1a204;
+  margin: 20px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 12px 24px;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: poppins;
+}
+
+.dekape {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.rpl {
+  background-color: #f2f5f6;
+  font-family: poppins;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.teksrpl {
+  background-color: #f1a204;
+  margin: 20px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 12px 24px;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: poppins;
+}
+
+.erpeel {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 430px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+  }
+
+  .menu ul {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    width: 95%;
+    gap: 30px;
+  }
+
+  .hero img {
+    width: 100%;
+    height: auto;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+
+
+  .navbar1 {
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    width: 100%;
+  }
+
+  .border,
+  .border1,
+  .border2 {
+    width: 90%;
+    margin: 0 auto;
+    padding: 15px;
+  }
+
+  .border img,
+  .border1 img,
+  .border2 img {
+    width: 100%;
+    height: auto;
+  }
+
+  .vocational,
+  .professional,
+  .religious {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .list {
+    padding: 0;
+  }
+
+  .list li {
+    font-size: 16px;
+    padding: 5px 0;
+  }
+
+  /* Partner & Gallery */
+  .partner,
+  .sponsor {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .gallery {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .gambar {
+    width: 90%;
+  }
+
+  /* Jurusan section */
+  .jurusan {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .tkj,
+  .dkv,
+  .rpl {
+    width: 90%;
+    margin-left: 0;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .kami p {
+    font-size: 16px;
+    padding: 0 15px;
+  }
+
+  /* Tombol & teks */
+  .filter-btn {
+    font-size: 14px;
+    padding: 8px 14px;
+  }
+
+  .daftar {
+    padding: 8px 14px;
+    font-size: 14px;
+  }
+
+  .contact a {
+    padding: 10px 15px;
+  }
+
+  .menu ul li.contact {
+    margin-top: 20px;
+  }
+}
